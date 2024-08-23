@@ -1,3 +1,6 @@
+# Downloaded a free lesson from OurCodingClub to learn more about R. It uses ecological data from Edinburgh to teaching coding basics. 
+Most of the lessons are through R Cloud. Work can be done there. I might add files from that work in here. 
+
 # Getting started with R and RStudio
 Importing and exploring data in R, troubleshooting and making figures
 
